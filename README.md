@@ -2,7 +2,7 @@
 
 ## Speaker info
 This webinar is held by Andrea Giussani, Data Scientist at Cloud Academy.
-You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or on [Linkedin](), or you can follow him on his [:rocket: blog](https://andreagiussani.github.io/the-long-beard-blog/).
+You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or on [Linkedin](https://it.linkedin.com/in/andrea-giussani-764816148?trk=public_profile_samename_mini-profile_title), and you can follow him on his [:rocket: blog](https://andreagiussani.github.io/the-long-beard-blog/).
 
 ## Repository Structure
 You will find:
