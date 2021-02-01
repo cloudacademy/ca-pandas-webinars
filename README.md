@@ -7,7 +7,7 @@ You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or o
 ## Repository Structure
 You will find:
  - a `data` folder containing the data used in this series;
- - a folder called `part-01` containing the material related to the first series entitled `How to filter your data source`. The recording of the webinar is available in our content library [here](https://cloudacademy.com/resource/pandas-like-a-boss-episode-1-how-to-filter-your-data-source/);
+ - a folder called `part-01` containing the material related to the first series entitled `How to filter your data source`. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-filter-your-data-source/);
 
 ## Setting Up the Google Colab Environment
 
