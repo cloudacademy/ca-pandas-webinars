@@ -8,6 +8,7 @@ You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or o
 You will find:
  - a `data` folder containing the data used in this series;
  - a folder called `part-01` containing the material related to the first series entitled `How to filter your data source`. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-filter-your-data-source/);
+ - a folder called `part-02` containing the material related to the second series entitled `How to manage and manipulate your data`.
 
 ## Setting Up the Google Colab Environment
 
