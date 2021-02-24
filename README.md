@@ -7,9 +7,9 @@ You can reach him out wither at [:email:](andrea.giussani@cloudacademy.com) or o
 ## Repository Structure
 You will find:
  - a `data` folder containing the data used in this series;
- - a folder called `part-01` containing the material related to the first series entitled _How to filter your data source_. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-filter-your-data-source/);
- - a folder called `part-02` containing the material related to the second series entitled _How to manage and manipulate your data_. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-manage-and-manipulate-your-data/);
- - a folder called `part-03` containing the material related to the second series entitled _How to transform your data_.
+ - a folder called `part-01` containing the material related to the first episode entitled _How to filter your data source_. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-filter-your-data-source/);
+ - a folder called `part-02` containing the material related to the second episode entitled _How to manage and manipulate your data_. The recording of the webinar is available [here](https://cloudacademy.com/webinars/how-to-manage-and-manipulate-your-data/);
+ - a folder called `part-03` containing the material related to the third episode entitled _How to transform your data_.
 
 ## Setting Up the Google Colab Environment
 
